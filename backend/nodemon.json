@@ -1,0 +1,8 @@
+{
+    "watch": ["src"],
+    "ignore": ["*.test.js", "node_modules"],
+    "delay": "1000",
+    "execMap": {
+      "js": "node --trace-warnings"
+    }
+  }
